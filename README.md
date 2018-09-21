@@ -1,2 +1,2 @@
 # thesis2018analysis
-Collection of scripts
+Collection of scripts I used in my thesis.
